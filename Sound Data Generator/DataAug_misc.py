@@ -75,6 +75,7 @@ def wav_to_mel(x):
 def wav_to_power(x):
     
     power_spec = np.abs(stft(x, n_fft=n_fft, hop_length=hop_length, window=window))**2
+    power_spec = power_spec.reshape(power_spec.shape[0], power_spec.shape[1], 1)
     return power_spec
 
 def wav_to_mel_util(x):
