@@ -2,7 +2,7 @@
 """
 Created on Fri Jan  1 21:49:54 2021
 
-@author: Bharath Kumar
+inspired from John Martinson's preprocess file
 """
 
 import librosa 
