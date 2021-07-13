@@ -14,7 +14,7 @@ The Bird Sounds are preprocessed by removing noise and converted into [Mel Spect
 
 
 # References:
-<p>  [Check out our Video Demonstration](https://www.youtube.com/watch?v=Gy_WHTzGzGg&list=PL0WyH9wLhzeknIPZwWAgktZR0oOKjCvvP&index=2)
+[Check out our Video Demonstration](https://www.youtube.com/watch?v=Gy_WHTzGzGg&list=PL0WyH9wLhzeknIPZwWAgktZR0oOKjCvvP&index=2)
 <p>Papers</p>
 <p>1.Audio Based Bird Species Identification using
 Deep Learning Techniques
